@@ -1,0 +1,21 @@
+{
+  "name": "genpark-prompt-injection-canary-leak-sentinel-skill",
+  "version": "1.0.1",
+  "description": "HMAC-signed zero-width invisible canary token generator and output response leak auditor for LLM guardrails",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "prompt-injection",
+    "canary-token",
+    "jailbreak-defense",
+    "zero-width-steganography",
+    "llm-security",
+    "python-standard-library",
+    "agent-skills",
+    "guardrails",
+    "security-sentinel",
+    "ai-safety"
+  ]
+}
